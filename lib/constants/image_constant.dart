@@ -1,77 +1,75 @@
 class ImageConstant {
-  static String archived = 'assets/images/SVG/Archived.svg';
+  static String archived = 'assets/images/svg/Archived.svg';
   static String iconAwesomeFileExport =
-      'assets/images/SVG/Icon awesome-file-export.svg';
-  static String iconFeatherBell = 'assets/images/SVG/Icon feather-bell.svg';
+      'assets/images/svg/Icon awesome-file-export.svg';
+  static String iconFeatherBell = 'assets/images/svg/Icon feather-bell.svg';
   static String iconFetherCalendar =
-      'assets/images/SVG/Icon feather-calendar.svg';
-  static String iconFeatherCoffee = 'assets/images/SVG/Icon feather-coffee.svg';
-  static String iconFeatherEdit = 'assets/images/SVG/Icon feather-edit-3.svg';
+      'assets/images/svg/Icon feather-calendar.svg';
+  static String iconFeatherCoffee = 'assets/images/svg/Icon feather-coffee.svg';
+  static String iconFeatherEdit = 'assets/images/svg/Icon feather-edit-3.svg';
   static String iconFeatherEyeOff =
-      'assets/images/SVG/Icon feather-eye-off.svg';
-  static String iconFeatherEye = 'assets/images/SVG/Icon feather-eye.svg';
+      'assets/images/svg/Icon feather-eye-off.svg';
+  static String iconFeatherEye = 'assets/images/svg/Icon feather-eye.svg';
   static String iconFeatherFacebook =
-      'assets/images/SVG/Icon feather-facebook.svg';
-  static String iconFeatherFilter = 'assets/images/SVG/Icon feather-filter.svg';
-  static String iconFeatherKey = 'assets/images/SVG/Icon feather-key.svg';
+      'assets/images/svg/icon-feather-facebook.svg';
+  static String iconFeatherFilter = 'assets/images/svg/Icon feather-filter.svg';
+  static String iconFeatherKey = 'assets/images/svg/Icon feather-key.svg';
   static String iconFeatherMapPin =
-      'assets/images/SVG/Icon feather-map-pin.svg';
+      'assets/images/svg/Icon feather-map-pin.svg';
   static String iconFeatherMessage =
-      'assets/images/SVG/Icon feather-message-circle.svg';
-  static String iconFeatherSearch = 'assets/images/SVG/Icon feather-search.svg';
+      'assets/images/svg/Icon feather-message-circle.svg';
+  static String iconFeatherSearch = 'assets/images/svg/Icon feather-search.svg';
   static String iconFeatherSettings =
-      'assets/images/SVG/Icon feather-settings.svg';
-  static String iconFeatherTrash = 'assets/images/SVG/Icon feather-trash-2.svg';
+      'assets/images/svg/Icon feather-settings.svg';
+  static String iconFeatherTrash = 'assets/images/svg/Icon feather-trash-2.svg';
   static String iconFeatherUSerPlus =
-      'assets/images/SVG/Icon feather-user-plus.svg';
-  static String iconFeatherUsers = 'assets/images/SVG/Icon feather-users.svg';
-  static String iconPlus = 'assets/images/SVG/Icon ionic-ios-add.svg';
+      'assets/images/svg/Icon feather-user-plus.svg';
+  static String iconFeatherUsers = 'assets/images/svg/Icon feather-users.svg';
+  static String iconPlus = 'assets/images/svg/Icon ionic-ios-add.svg';
   static String iconCheckCircle =
-      'assets/images/SVG/Icon ionic-ios-checkmark-circle-outline.svg';
+      'assets/images/svg/Icon ionic-ios-checkmark-circle-outline.svg';
   static String iconCheckOutline =
-      'assets/images/SVG/Icon ionic-ios-checkmark-circle.svg';
-  static String iconImages = 'assets/images/SVG/Icon ionic-ios-images.svg';
-  static String iconRemove = 'assets/images/SVG/Icon ionic-ios-remove.svg';
-  static String iconGoogle = 'assets/images/SVG/Icon ionic-logo-google.svg';
-  static String iconCamera = 'assets/images/SVG/Icon material-add-a-photo.svg';
-  static String iconTimer = 'assets/images/SVG/Icon material-timer.svg';
+      'assets/images/svg/Icon ionic-ios-checkmark-circle.svg';
+  static String iconImages = 'assets/images/svg/Icon ionic-ios-images.svg';
+  static String iconRemove = 'assets/images/svg/Icon ionic-ios-remove.svg';
+  static String iconGoogle = 'assets/images/svg/icon-ionic-logo-google.svg';
+  static String iconCamera = 'assets/images/svg/Icon material-add-a-photo.svg';
+  static String iconTimer = 'assets/images/svg/Icon material-timer.svg';
   static String iconFileAttachment =
-      'assets/images/SVG/Icon metro-attachment.svg';
-  static String iconAtTheRate = 'assets/images/SVG/Icon simple-email.svg';
-  static String iconLogOut = 'assets/images/SVG/Logout.svg';
-  static String iconMenu = 'assets/images/SVG/Menu.svg';
-  static String iconProperty = 'assets/images/SVG/Property.svg';
-  static String iconRental = 'assets/images/SVG/Rental.svg';
-  static String iconUnit = 'assets/images/SVG/Unit.svg';
+      'assets/images/svg/Icon metro-attachment.svg';
+  static String iconAtTheRate = 'assets/images/svg/Icon simple-email.svg';
+  static String iconLogOut = 'assets/images/svg/Logout.svg';
+  static String iconMenu = 'assets/images/svg/Menu.svg';
+  static String iconProperty = 'assets/images/svg/Property.svg';
+  static String iconRental = 'assets/images/svg/Rental.svg';
+  static String iconUnit = 'assets/images/svg/Unit.svg';
   static String imgAvatar = 'assets/images/PNG/avatar.png';
-  static String iconDialPhone = 'assets/images/SVG/Icon feather-phone-call.svg';
+  static String iconDialPhone = 'assets/images/svg/Icon feather-phone-call.svg';
 
   static String iconAdministrative =
-      'assets/images/SVG/Administrative Setup.svg';
-  static String iconModuleMetric = 'assets/images/SVG/Module Metric.svg';
+      'assets/images/svg/Administrative Setup.svg';
+  static String iconModuleMetric = 'assets/images/svg/Module Metric.svg';
   static String iconMeterReading = 'assets/images/SVG Meter Readings.svg';
-  static String iconNotes = 'assets/images/SVG/Notes.svg';
+  static String iconNotes = 'assets/images/svg/Notes.svg';
   static String iconRepairAndMaintenance =
-      'assets/images/SVG/Icon Repair & Maintenance.svg';
-  static String iconReports = 'assets/images/SVG/Reports.svg';
+      'assets/images/svg/Icon Repair & Maintenance.svg';
+  static String iconReports = 'assets/images/svg/Reports.svg';
   static String iconServiceCharge =
-      'assets/images/SVG/Service Charge Reconciliation.svg';
-  static String iconSystemMetric = 'assets/images/SVG/System Metric.svg';
-  static String iconTask = 'assets/images/SVG/Task.svg';
-  static String iconTrips = 'assets/images/SVG/Trips.svg';
-  static String iconTools = 'assets/images/SVG/Tools.svg';
-  static String iconInventories = 'assets/images/SVG/Inventories.svg';
-  static String iconBookings = 'assets/images/SVG/Bookings.svg';
+      'assets/images/svg/Service Charge Reconciliation.svg';
+  static String iconSystemMetric = 'assets/images/svg/System Metric.svg';
+  static String iconTask = 'assets/images/svg/Task.svg';
+  static String iconTrips = 'assets/images/svg/Trips.svg';
+  static String iconTools = 'assets/images/svg/Tools.svg';
+  static String iconInventories = 'assets/images/svg/Inventories.svg';
+  static String iconBookings = 'assets/images/svg/Bookings.svg';
   static String iconFeatherUserCheck =
-      'assets/images/SVG/Icon feather-user-check.svg';
+      'assets/images/svg/Icon feather-user-check.svg';
   static String iconRoleAndPermission =
-      'assets/images/SVG/Roles & Permissions.svg';
+      'assets/images/svg/Roles & Permissions.svg';
 
   static String pdfIcon = "assets/images/PNG/download-pdf-icon.png";
   static String person = "assets/images/PNG/person.png";
-  static String iconKebabMenu = 'assets/images/SVG/Kebab Menu.svg';
-  static String iconCrossDelete = 'assets/images/SVG/Cross_Delete.svg';
-  static String iconDocument = 'assets/images/SVG/Document_Icon.svg';
-
-
+  static String iconKebabMenu = 'assets/images/svg/Kebab Menu.svg';
+  static String iconCrossDelete = 'assets/images/svg/Cross_Delete.svg';
+  static String iconDocument = 'assets/images/svg/Document_Icon.svg';
 }
